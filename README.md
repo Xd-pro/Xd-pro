@@ -33,7 +33,9 @@
 
 👍big on js/dart/c#-style async
 
----
+📦modularity
+
+### languages
 
 🎯dart - my favourite
 
@@ -43,18 +45,18 @@
 
 🟣oo-php (in cli mode of course)
 
----
+### paradigms
 
 🙂i like most well-thought-out programming paradigms, use the best tool for the job
 
----
+### frameworks
 🦋flutter
 
 🟠svelte
 
 🎮pocketmine
 
----
+### other
 
 ☁️google cloud
 
