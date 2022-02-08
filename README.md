@@ -1,5 +1,8 @@
 # finnbar mccloskey
+
 📍northern ireland
+
+🙋‍♂️14
 
 💻programmer
 
@@ -12,6 +15,17 @@
 🏳️‍🌈gray-asexual hetroromantic probably im not sure
 
 🥰single
+
+# skills
+✅problem solving
+
+✅logical thinking
+
+✅timing
+
+✅teamwork
+
+✅foreward thinking
 
 # programming preferences
 
@@ -51,6 +65,16 @@
 ⚔️developing for rosepvp
 
 ➕freelance sometimes
+
+# qualities
+
+👍optimistic
+
+🧠open minded
+
+🙂respectful
+
+🤫i know when to shut up
 
 # upcoming projects
 💾a database written in dart, designed to be flexible and minimal, specifically catering to the problems i've run into with minecraft servers. will feature elements of relational and document databases.
