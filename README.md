@@ -64,7 +64,7 @@
 # minecraft stuff
 🐈‍⬛open source plugins
 
-⚔️developing for rosepvp
+⚔️developing for rosepvp and centa royale
 
 ➕freelance sometimes
 
