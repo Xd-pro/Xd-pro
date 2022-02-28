@@ -12,7 +12,7 @@
 
 🎛️producer (still learning)
 
-🏳️‍🌈gray-asexual hyperromatic
+🏳️‍🌈gray-asexual
 
 🥰single
 
