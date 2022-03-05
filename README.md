@@ -14,8 +14,6 @@
 
 🏳️‍🌈gray-asexual
 
-🥰single
-
 # skills
 ✅problem solving
 
