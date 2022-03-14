@@ -12,7 +12,7 @@
 
 🎛️producer (still learning)
 
-🏳️‍🌈gray-asexual
+🏳️‍🌈asexual idk romantic
 
 # skills
 ✅problem solving
@@ -27,8 +27,6 @@
 
 # programming preferences
 
-💖do it the way your paradigm wants you to do it
-
 👍big on js/dart/c#-style async
 
 📦modularity
@@ -41,11 +39,7 @@
 
 🔵python
 
-🟣oo-php (in cli mode of course)
-
-### paradigms
-
-🙂i like most well-thought-out programming paradigms, use the best tool for the job
+🟣php
 
 ### frameworks
 🦋flutter
@@ -77,6 +71,7 @@
 🤫i know when to shut up
 
 # upcoming projects
+
 💾a database written in dart, designed to be flexible and minimal, specifically catering to the problems i've run into with minecraft servers. will feature elements of relational and document databases.
 
 🎮a control panel specifically made for minecraft bedrock
