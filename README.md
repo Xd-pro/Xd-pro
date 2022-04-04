@@ -14,17 +14,6 @@
 
 🏳️‍🌈asexual idk romantic
 
-# skills
-✅problem solving
-
-✅logical thinking
-
-✅timing
-
-✅teamwork
-
-✅foreward thinking
-
 # programming preferences
 
 👍big on js/dart/c#-style async
@@ -56,19 +45,9 @@
 # minecraft stuff
 🐈‍⬛open source plugins
 
-⚔️developing for rosepvp and centa royale
+⚔️owner on rosepvp
 
 ➕freelance sometimes
-
-# qualities
-
-👍optimistic
-
-🧠open minded
-
-🙂respectful
-
-🤫i know when to shut up
 
 # upcoming projects
 
