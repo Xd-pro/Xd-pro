@@ -1,4 +1,4 @@
-# finnbar mccloskey
+# finnbar
 
 📍northern ireland
 
